@@ -4,7 +4,7 @@
 > **⚠️ THIS IS A JOKE VIRUS.**
 
 This program is created **for entertainment purposes only**.
-It may intentionally **mess with your system, fake errors, manipulate windows, and otherwise annoy you**.
+It may intentionally **mess with your system, fake errors, otherwise annoy you**.
 
 ```text
 [!] DO NOT RUN THIS ON A COMPUTER YOU DON'T OWN.
