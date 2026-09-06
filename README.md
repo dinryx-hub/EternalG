@@ -1,7 +1,7 @@
 #          EternalG
 # ☠️ AHTUNG! SYSTEM COMPROMISED
 
-> **⚠️ THIS IS A ******.**
+> **⚠️ THIS IS A ??????.**
 
 This program is created **for entertainment purposes only**.
 It may intentionally **mess with your system, fake errors, otherwise annoy you**.
